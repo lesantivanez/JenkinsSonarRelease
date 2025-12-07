@@ -1,2 +1,5 @@
-# JenkinsSonarRelease
-Este repositorio conecta a jenkins con sonarqube en docker
+# Pipeline de Release con Jenkins
+Este paquete contiene:
+- Jenkinsfile
+- Script deploy.sh
+- Instrucciones para integración con GitHub
